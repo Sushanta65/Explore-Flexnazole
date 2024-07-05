@@ -1,0 +1,13 @@
+.navbar {
+  background: #ddd;
+  padding: 20px;
+}
+ul {
+  list-style: none;
+  display: flex;
+}
+li {
+  background: red;
+  margin: 10px;
+  padding: 20px;
+}
